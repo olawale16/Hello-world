@@ -1,5 +1,5 @@
-# Hello-world
-# my first respository
+#Hello-world
+#my first respository
 #I imported random to generate the random Number for the OTP numbers
 #date time is just a fancy one and time for monitoring of the code time and when it expires
 import random
